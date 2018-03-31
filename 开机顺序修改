@@ -1,0 +1,3 @@
+$sudo gedit  /etc/default/grub
+设置GRUB_DEFAULT和GRUB_TIMEOUT
+$sudo update-grub
